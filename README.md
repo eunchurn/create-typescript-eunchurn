@@ -9,3 +9,9 @@ Inspired from Command-line tool for [Native Web](https://github.com/nativew/nati
 ```zsh
 npm init typescript-eunchurn
 ```
+
+### Using `npx`
+
+```zsh
+npx create-typescript-eunchurn
+```
