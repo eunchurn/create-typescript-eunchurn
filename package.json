@@ -24,7 +24,7 @@
     "@eunchurn/eslint-config": "^0.1.11",
     "@eunchurn/prettier-config": "^0.0.6",
     "@types/jest": "^29.2.5",
-    "@types/module-alias": "^2.0.1",
+    "@types/module-alias": "^2.0.2",
     "@types/node": "^18.11.18",
     "cross-env": "^7.0.3",
     "dotenv-cli": "^6.0.0",
